@@ -35,7 +35,7 @@ function setup(){
     World.add(world,polygon);
    
 
-    slingshot = new Slingshot(this.polygon,{x:200,y:100});
+    slingshot = new Slingshot(this.polygon,{x:100,y:200});
 
 
     Engine.run(engine);
